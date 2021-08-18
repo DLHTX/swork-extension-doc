@@ -2,7 +2,6 @@ module.exports = {
   lang: 'zh-CN',
   // title: 'Swork Extension',
   description: 'Swork Extension Offical Development Doc',
-  base:"https://github.com/sworkofficial/swork-app",
   themeConfig: {
     logo: '/images/logo-black.png',
     editLink: true,
